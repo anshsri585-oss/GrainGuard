@@ -1,0 +1,13 @@
+GrainGuard - USDA Insect Progeny Experiment
+Exploratory evaluation only
+
+Samples: 20
+Accuracy: 0.650
+Precision: 0.500
+Recall: 0.571
+F1: 0.533
+
+Note on Scientific Interpretation:
+- N = 20 experimental samples.
+- Accuracy matches naive majority class baseline (13/20 = 0.650).
+- Evaluates across replicates; not validated for real-time grain spoilage prediction.
