@@ -23,7 +23,7 @@ project/
 │   ├── synthetic/               # Sensor readings and predictions
 │   ├── real/                    # USDA-sample datasets
 │   └── processed/               # Prepared ML data
-├── models/hotspot_model.joblib  # Trained hotspot model
+├── hotspot_model.joblib         # Trained hotspot model
 └── wokwi/                       # ESP32 + DHT22 Wokwi simulation files
 ```
 
